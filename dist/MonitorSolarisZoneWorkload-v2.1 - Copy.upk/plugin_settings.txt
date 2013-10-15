@@ -1,0 +1,8 @@
+name=Solaris Zone Workload Monitor
+version=2.1
+platforms=windows linux solaris
+description=Monitor workload utilization on Solaris Zones. This monitor will show you how much each container is using of the physical cpu usage.
+restartCore=false
+requiresAgentScript=true
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
