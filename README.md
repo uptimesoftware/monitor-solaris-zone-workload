@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * Solaris Zone Workload Monitor 2.1 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* Solaris Zone Workload Monitor 2.1 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -41,8 +41,23 @@ None; no agent required
 
 ### Output Variables
 
-* Zones Running* CPU %* Memory KB* RSS Memory KB* Number of Processes Running
+
+* Zones Running
+
+* CPU %
+
+* Memory KB
+
+* RSS Memory KB
+
+* Number of Processes Running
+
 
 ### Languages Used
-* Shell/Batch* PHP* Perl
+
+* Shell/Batch
+
+* PHP
+
+* Perl
 
