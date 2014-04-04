@@ -157,5 +157,5 @@
 			</gui_type>
 		</element>
 	</elements>
-	<help>Monitors Solaris Zone workload metrics such as CPU, Memory, RSS Memory & Number of Processes Running.</help>
+	<help>Monitors Solaris Zone workload metrics such as CPU, Memory, RSS Memory and Number of Processes Running.</help>
 </uptime>
